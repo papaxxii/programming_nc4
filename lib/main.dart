@@ -90,7 +90,7 @@ class _MyHomePageState extends State<MyHomePage> {
 	'Hello World!',
 	style: TextStyle(fontSize: 24),
   ),
-)
+),
 
       floatingActionButton: FloatingActionButton(
         onPressed: _incrementCounter,
